@@ -1,4 +1,3 @@
-# Intern2Grow
 <h1>Intern2Grow</h1> <br>
 <h2>ABOUT</h2><br>
 <p>
